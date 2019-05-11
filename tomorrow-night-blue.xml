@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Tomorrow Night Blue">
+  <!-- 
+       Based on the colors of Ubuntu's GEdit 
+       vcrobe@gmail.com
+   -->
+  <style name="Text" foreground="#ffffff" background="#002451"/>
+  <style name="Extra" foreground="#858585" background="#002451"/>
+  <style name="Selection" background="#00316F"/>
+  <style name="CurrentLine" background="#00346E"/>
+  <style name="MatchBrackets" background="#003963"/>
+  <style name="IndentLine" foreground="#404F7D"/>
+  <style name="VisualWhitespace" foreground="#c0c0c0"/>
+  <style name="Keyword" foreground="#CDACF9"/>
+  <style name="DataType" foreground="#CDACF9" /> 
+  <style name="Decimal" foreground="#FFC58F"/>
+  <style name="BaseN" foreground="#FFC58F"/>
+  <style name="Float" foreground="#FFC58F"/>
+  <style name="Char" foreground="#55ff55"/>
+  <style name="String" foreground="#B0EA9B"/>
+  <style name="Comment" foreground="#7285b7"/>
+  <style name="Alert" foreground="#ff0000"/>
+  <style name="Error" foreground="#ffff55"/>
+  <style name="Function" foreground="#BBDAFF"/>
+  <style name="RegionMarker" foreground="#99FFFF"/>
+  <style name="Symbol" foreground="#bbbbbb"/>
+  <style name="BuiltinFunc" foreground="#BBDAFF"/>
+  <style name="Predeclared" foreground="#FFC58F"/>
+  <style name="FuncDecl" foreground="#BBDAFF"/>
+  <style name="Placeholder" foreground="#a75454"/>
+  <style name="ToDo" foreground="#5555ff" bold="true"/>
+</style-scheme>
